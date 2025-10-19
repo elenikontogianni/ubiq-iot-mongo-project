@@ -1,0 +1,5 @@
+# Project Overview
+**Problem**: Need scalable, secure IoT monitoring for Greece’s agri-tech (e.g., farms).
+**Solution**: Built system to collect temp/humidity, store in MongoDB, trigger control alerts, and secure data.
+**Impact**: Processes 100+ readings/min; GDPR-compliant for EU markets.
+**Learnings**: Mastered NoSQL scalability and encryption integration.
