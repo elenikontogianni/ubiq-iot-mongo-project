@@ -14,9 +14,7 @@ A ubiquitous computing project for real-time environmental monitoring (temperatu
 3. Set up MongoDB Atlas (see `docs/setup.md`).
 4. Run: `python code/iot_mongo_integrator.py`
 
-### Demo
-- [Video Demo](https://youtube.com/your-link) (2-min: sensor data → MongoDB → alert)
-- Screenshots: See `demos/` for MongoDB queries
+
 
 ### Results
 - Stored 1,000+ data points securely in MongoDB.
