@@ -8,11 +8,6 @@ A ubiquitous computing project for real-time environmental monitoring (temperatu
 - **Software**: Python, MongoDB Atlas, Fernet encryption
 - **Features**: Real-time data collection, NoSQL storage, control feedback (alerts >28°C), secure data transmission
 
-### Setup Instructions
-1. Clone repo: `git clone https://github.com/yourusername/ubiq-iot-mongo-project.git`
-2. Install dependencies: `pip install -r code/requirements.txt`
-3. Set up MongoDB Atlas (see `docs/setup.md`).
-4. Run: `python code/iot_mongo_integrator.py`
 
 
 
