@@ -25,4 +25,3 @@ A ubiquitous computing project for real-time environmental monitoring (temperatu
 - Add Streamlit dashboard for real-time visualization.
 - Expand to MQTT for multi-device setups.
 
-*Built by [Your Name], ECE grad passionate about ubiquitous computing. Contact: [your.email@example.com]*
